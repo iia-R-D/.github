@@ -1,3 +1,4 @@
+![Work in Progress](https://img.shields.io/badge/README-Work%20in%20Progress-yellow)
 # **Welcome to iia 👋**
 
 iia is an initiative aimed at exploring how AI and software can support researchers, clinicians, and individuals in better understanding and addressing neurodiversity. Our mission is to develop tools that open new possibilities for studying cognitive diversity—providing insights and approaches that were previously out of reach.
