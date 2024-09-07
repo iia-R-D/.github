@@ -1,5 +1,6 @@
 # **Welcome to iia 👋**
 ![Work in Progress](https://img.shields.io/badge/README-Work%20in%20Progress-yellow)
+---
 iia is an initiative aimed at exploring how AI and software can support researchers, clinicians, and individuals in better understanding and addressing neurodiversity. Our mission is to develop tools that open new possibilities for studying cognitive diversity—providing insights and approaches that were previously out of reach.
 
 This initiative brings together **researchers, developers, and clinicians** to create AI-driven tools that not only study neurodiversity but also provide **treatment support**. Through self-help tools based on evidence-based therapies like **Cognitive Behavioral Therapy (CBT)** and **Dialectical Behavior Therapy (DBT)**, we aim to empower individuals with neurodivergent traits to better manage their mental health.
